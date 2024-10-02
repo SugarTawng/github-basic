@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 chicken
 noodle
 banh mi
+=======
+train to busan
+forest gumb
+doraemon
+>>>>>>> movies
